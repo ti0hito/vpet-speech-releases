@@ -72,8 +72,12 @@ O **VPet Speech** é um projeto de **código-fonte privado e proprietário**.
 
 ---
 
-## 👨‍💻 Créditos & Contato
+## 📄 Licença & Créditos
 
-Desenvolvido com carinho por **[Hito](https://github.com/ti0hito)**.  
-Dúvidas, sugestões ou relatórios de bugs podem ser enviados abrindo uma [Issue](https://github.com/ti0hito/vpet-speech-releases/issues).
+Distribuído sob a licença **MIT**. Veja `LICENSE` para mais informações.
+
+### Créditos & Reconhecimentos:
+- **Desenvolvimento & Manutenção:** Desenvolvido com carinho por **[Hito](https://github.com/ti0hito)**.
+- **Inspiração Conceitual:** Agradecimento especial a **[komoririck](https://github.com/komoririck)**, criador do projeto original que serviu de faísca e inspiração para a concepção do VPet Speech. Embora o projeto atual tenha sido 100% reescrito do zero (em TypeScript, Node.js e Electron) e não utilize mais nenhuma linha da base original em C#, a ideia conceitual foi brilhante e merece total reconhecimento!  
+- Dúvidas, sugestões ou relatórios de bugs podem ser enviados abrindo uma [Issue](https://github.com/ti0hito/vpet-speech-releases/issues).
 
